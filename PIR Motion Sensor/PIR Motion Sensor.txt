@@ -1,0 +1,17 @@
+***Introducción***
+
+El sensor de movimiento infrarrojo piroeléctrico puede detectar señales infrarrojas de una persona en movimiento o animal en movimiento, y señales de cambio de salida. Se puede aplicar a una variedad de ocasiones para detectar el movimiento del cuerpo humano. Los sensores infrarrojos piroeléctricos convencionales requieren un detector infrarrojo piroeléctrico del cuerpo, un chip profesional, un circuito periférico complejo, por lo que el tamaño es más grande, con circuitos complejos y menor confiabilidad. Ahora lanzamos este nuevo sensor de movimiento infrarrojo piroeléctrico, especialmente diseñado para Arduino. Utiliza un sensor infrarrojo piroeléctrico de cuerpo digital integrado, tiene un tamaño más pequeño, una mayor fiabilidad, menor consumo de energía y un circuito periférico más simple.
+
+****Especificación****
+
+Voltaje de entrada: 3.3 ~ 5V, 6V Máximo
+Corriente de trabajo: 15uA
+Temperatura de trabajo: -20 ~ 85 ℃
+Voltaje de salida: alto(High) 3V, bajo(Low) 0V
+Tiempo de Retardo de Salida Nivel Alto(High Level): Aproximadamente 2.3 a 3 Segundos
+Ángulo de detección: 100°
+Distancia de detección: 7 metros
+LED indicador de salida (cuando la salida es ALTA(HIGH), estará ENCENDIDA)
+Corriente de límite de pin: 100 mA
+Tamaño: 30*20 mm
+Peso: 4g

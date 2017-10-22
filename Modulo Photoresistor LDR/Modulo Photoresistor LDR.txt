@@ -1,0 +1,17 @@
+
+caracteristicas:
+
+    *Capaz de detectar el brillo ambiental y la intensidad de la luz
+    *Sensibilidad ajustable (a través del ajuste del potenciómetro digital azul)
+    *Tensión de funcionamiento 3.3V-5V
+    *Salidas digitales de conmutación (0 y 1) -D0
+    *Con orificio de perno fijo para una fácil instalación
+    *Tablero pequeño tamaño PCB: 3 cm * 1.6 cm
+    *Indicador de encendido (rojo) y el indicador digital de salida del interruptor (verde)
+    *Características comparador de tensión de amplio rango LM393
+
+Pin outs:
+
+    *VCC externo 3.3V-5V
+    *Externo GND tierra
+    *Interfaz de salida digital DO, una placa pequeña (0 y 1)
