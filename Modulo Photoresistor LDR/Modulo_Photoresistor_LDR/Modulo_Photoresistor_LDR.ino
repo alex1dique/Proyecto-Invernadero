@@ -13,8 +13,8 @@ void loop()
 {
   byte state = digitalRead(sensorPin);
   digitalWrite(indicator,state);
-  if(state == 1)Serial.println("¡El área esta iluminada!");
-  else if(state == 0)Serial.println("¡No se detecto iluminacion!");
+  if(state == 1)Serial.println("¡Hay poca luz en el área!");
+  else if(state == 0)Serial.println("¡Se detecto iluminacion en el área!");
   delay(500);
 }
 
